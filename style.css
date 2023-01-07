@@ -184,3 +184,63 @@
 .img-sec{
     margin: 5px;
 }
+.feedback-section{
+    text-align: center;
+    padding-bottom: 200px;
+}
+.feed-back-p{
+    font-size: 30px;
+    font-weight: bold;
+ }
+
+    
+
+.un-or-list li{
+    padding-top: 40px;
+    margin-bottom: 5px;
+    list-style: none;
+    
+    
+}
+.first-type-area{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 40px;
+    
+    
+}
+.second-type-area{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 40px;
+}
+.third-type-area{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 100px;
+    
+}
+.submit-area{
+    font-size: 25px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 30px;
+    border-style: none;
+    color: white;
+    background-color: orange
+    
+
+}
+.feedback-style{
+    color: orange;
+    font-weight: 2000;
+}
