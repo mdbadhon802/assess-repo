@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.header-content{
+    text-align: right;
+    padding: 200px 200px;
+    background-image: url('./images/banner/banner1.png');
+    background-size: 100% 100%;
+    
+
+}
+.header-title{
+    font-size: 30px;
+    font-style: bold;
+}
+
+
+.header-description{
+    font-size: 15px;
+    margin-top: 15px;
+    
+}
+
+
+.primary-button{
+    padding: 20px 30px;
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: Orange;
+    color: aliceblue;
+    border-radius: 5px;
+    border: none;
+    
+}
+
+
+.img-section{
+    margin-top: 100px;
+    padding-left: 200px;
+    display: flex;
+    text-align: left;
+}
+
+
+.img-section-title{
+    padding-left: 180px;
+    margin-top: 230px;
+}
+
+
+.img-title{
+    font-size: 50px;
+}
+
+
+.img-description{
+    margin-top: 20px;
+    color: gray;  
+}
+
+
+.checkmark-description{
+    color: gray;
+    margin-top: 20px;  
+}
+
+
+.mid-head-title{
+    text-align: center;
+    margin-top: 120px;
+    font-size: 30px;
+}
+
+
+.mid-main-head{
+    display: flex;
+    margin-top: 5px;
+    justify-content: center;  
+}
+
+
+.marg-icon{
+    margin: 80px;
+    text-align: center;
+}
+
+
+.king-calling{
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.calling-section{
+    background-image: url('./images/gradient2.png'), url('./images/watch.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0px 0px 400px 50px;
+    background-position: top;
+}
+
+
+.calling-title{
+    padding-top: 65px;
+    padding-left: 200px;
+    font-size: 30px;
+    color: white;
+}
+
+
+.calling-btn{
+  
+    padding: 20px 30px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: white;
+    color: orange;
+    border-radius: 5px;
+    border: none;   
+}
+
+
+.main-sec{
+    display: flex;
+    gap: 378px;
+    background-color: black;
+    color: white;
+}
+
+
+.main-sec .section-title{
+    text-align: left;
+}
+
+
+.all-content{
+    padding-left: 202px;
+}
+
+
+.section-title{
+    font-size: 40px;
+    padding-top: 80px;
+}
+
+
+.last-title{
+    padding-top: 80px;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+
+.email-btn{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    font-weight: 300;
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    border-color: white;  
+}
+
+
+.last-btn{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 800;
+    color: orange;
+    border-radius: 10px;
+}
+
+
+.img-sec{
+    margin: 5px;
+}
